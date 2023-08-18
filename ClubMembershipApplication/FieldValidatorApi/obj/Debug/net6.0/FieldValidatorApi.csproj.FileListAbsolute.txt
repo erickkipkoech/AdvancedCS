@@ -1,0 +1,12 @@
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\bin\Debug\net6.0\FieldValidatorApi.deps.json
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\bin\Debug\net6.0\FieldValidatorApi.dll
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\bin\Debug\net6.0\FieldValidatorApi.pdb
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.csproj.AssemblyReference.cache
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.AssemblyInfoInputs.cache
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.AssemblyInfo.cs
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.csproj.CoreCompileInputs.cache
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.dll
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\refint\FieldValidatorApi.dll
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\FieldValidatorApi.pdb
+C:\Users\cheru\source\repos\AdvancedC#\ClubMembershipApplication\FieldValidatorApi\obj\Debug\net6.0\ref\FieldValidatorApi.dll

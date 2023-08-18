@@ -1,0 +1,15 @@
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\bin\Debug\net6.0\DelegatesBasicExample2.exe
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\bin\Debug\net6.0\DelegatesBasicExample2.deps.json
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\bin\Debug\net6.0\DelegatesBasicExample2.runtimeconfig.json
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\bin\Debug\net6.0\DelegatesBasicExample2.dll
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\bin\Debug\net6.0\DelegatesBasicExample2.pdb
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.csproj.AssemblyReference.cache
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.AssemblyInfoInputs.cache
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.AssemblyInfo.cs
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.csproj.CoreCompileInputs.cache
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.dll
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\refint\DelegatesBasicExample2.dll
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.pdb
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\DelegatesBasicExample2.genruntimeconfig.cache
+C:\Users\cheru\source\repos\AdvancedC#\DelegatesBasicExample2\DelegatesBasicExample2\obj\Debug\net6.0\ref\DelegatesBasicExample2.dll
